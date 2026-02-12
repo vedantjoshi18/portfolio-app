@@ -1,0 +1,12 @@
+components/3d/DepthFieldNetwork.tsx(89,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(90,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(100,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(101,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(102,21): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(110,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(123,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(124,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(125,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(126,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+components/3d/DepthFieldNetwork.tsx(127,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+node_modules/@react-three/fiber/dist/declarations/src/core/reconciler.d.ts(3,8): error TS1259: Module '"D:/Portfolio/portfolio-app/node_modules/@react-three/fiber/dist/declarations/react-reconciler/index"' can only be default-imported using the 'esModuleInterop' flag
