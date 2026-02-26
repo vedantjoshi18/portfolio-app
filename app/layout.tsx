@@ -14,9 +14,6 @@ const jetbrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mon
 export const metadata: Metadata = {
   title: "Vedant Joshi | Portfolio",
   description: "Full Stack Developer & AI/ML Enthusiast",
-  icons: {
-    icon: "/favicon.png",
-  },
 };
 
 export default function RootLayout({
